@@ -41,7 +41,7 @@ def preprocess_consumption_data(df,
             le = LabelEncoder()
             df[col] = le.fit_transform(df[col])
             encoders[col] = le
-        
+
         # Save encoders for later use
         with open(encoders_path, 'wb') as f:
             pickle.dump(encoders, f)
@@ -49,10 +49,10 @@ def preprocess_consumption_data(df,
         # Load encoders and transform
         if not os.path.exists(encoders_path):
             raise FileNotFoundError(f"Encoders file '{encoders_path}' not found. You need to train first.")
-        
+
         with open(encoders_path, 'rb') as f:
             encoders = pickle.load(f)
-        
+
         for col in categorical_columns:
             df[col] = encoders[col].transform(df[col])
 

@@ -1,0 +1,351 @@
+Local authority,Region,Weather_zone
+Aberdeen City,Scotland,Scotland_E
+Aberdeenshire,Scotland,Scotland_E
+Adur,South East,England_S
+Amber Valley,East Midlands,Midlands
+Angus,Scotland,Scotland_E
+Argyll and Bute,Scotland,Scotland_W
+Arun,South East,England_S
+Ashfield,East Midlands,Midlands
+Ashford,South East,England_S
+Babergh,East,East_Anglia
+Barking and Dagenham,London,England_S
+Barnet,London,England_S
+Barnsley,Yorkshire and The Humber,England_N
+Basildon,East,East_Anglia
+Basingstoke and Deane,South East,England_S
+Bassetlaw,East Midlands,Midlands
+Bath and North East Somerset,South West,England_S
+Bedford,East,East_Anglia
+Bexley,London,England_S
+Birmingham,West Midlands,Midlands
+Blaby,East Midlands,Midlands
+Blackburn with Darwen,North West,England_N
+Blackpool,North West,England_N
+Blaenau Gwent,Wales,Wales
+Bolsover,East Midlands,Midlands
+Bolton,North West,England_N
+Boston,East Midlands,Midlands
+"Bournemouth, Christchurch and Poole",South West,England_S
+Bracknell Forest,South East,England_S
+Bradford,Yorkshire and The Humber,England_N
+Braintree,East,East_Anglia
+Breckland,East,East_Anglia
+Brent,London,England_S
+Brentwood,East,East_Anglia
+Bridgend,Wales,Wales
+Brighton and Hove,South East,England_S
+"Bristol, City of",South West,England_S
+Broadland,East,East_Anglia
+Bromley,London,England_S
+Bromsgrove,West Midlands,Midlands
+Broxbourne,East,East_Anglia
+Broxtowe,East Midlands,Midlands
+Buckinghamshire,South East,England_S
+Burnley,North West,England_N
+Bury,North West,England_N
+Caerphilly,Wales,Wales
+Calderdale,Yorkshire and The Humber,England_N
+Cambridge,East,East_Anglia
+Camden,London,England_S
+Cannock Chase,West Midlands,Midlands
+Canterbury,South East,England_S
+Cardiff,Wales,Wales
+Carmarthenshire,Wales,Wales
+Castle Point,East,East_Anglia
+Central Bedfordshire,East,East_Anglia
+Ceredigion,Wales,Wales
+Charnwood,East Midlands,Midlands
+Chelmsford,East,East_Anglia
+Cheltenham,South West,England_S
+Cherwell,South East,England_S
+Cheshire East,North West,England_N
+Cheshire West and Chester,North West,England_N
+Chesterfield,East Midlands,Midlands
+Chichester,South East,England_S
+Chorley,North West,England_N
+City of Edinburgh,Scotland,Scotland_E
+City of London,London,England_S
+Clackmannanshire,Scotland,Scotland_E
+Colchester,East,East_Anglia
+Conwy,Wales,Wales
+Cornwall,South West,England_S
+Cotswold,South West,England_S
+County Durham,North East,England_N
+Coventry,West Midlands,Midlands
+Crawley,South East,England_S
+Croydon,London,England_S
+Cumberland,North West,England_N
+Dacorum,East,East_Anglia
+Darlington,North East,England_N
+Dartford,South East,England_S
+Denbighshire,Wales,Wales
+Derby,East Midlands,Midlands
+Derbyshire Dales,East Midlands,Midlands
+Doncaster,Yorkshire and The Humber,England_N
+Dorset,South West,England_S
+Dover,South East,England_S
+Dudley,West Midlands,Midlands
+Dumfries and Galloway,Scotland,Scotland_N
+Dundee City,Scotland,Scotland_E
+Ealing,London,England_S
+East Ayrshire,Scotland,Scotland_W
+East Cambridgeshire,East,East_Anglia
+East Devon,South West,England_S
+East Dunbartonshire,Scotland,Scotland_W
+East Hampshire,South East,England_S
+East Hertfordshire,East,East_Anglia
+East Lindsey,East Midlands,Midlands
+East Lothian,Scotland,Scotland_E
+East Renfrewshire,Scotland,Scotland_W
+East Riding of Yorkshire,Yorkshire and The Humber,England_N
+East Staffordshire,West Midlands,Midlands
+East Suffolk,East,East_Anglia
+Eastbourne,South East,England_S
+Eastleigh,South East,England_S
+Elmbridge,South East,England_S
+Enfield,London,England_S
+Epping Forest,East,East_Anglia
+Epsom and Ewell,South East,England_S
+Erewash,East Midlands,Midlands
+Exeter,South West,England_S
+Falkirk,Scotland,Scotland_E
+Fareham,South East,England_S
+Fenland,East,East_Anglia
+Fife,Scotland,Scotland_E
+Flintshire,Wales,Wales
+Folkestone and Hythe,South East,England_S
+Forest of Dean,South West,England_S
+Fylde,North West,England_N
+Gateshead,North East,England_N
+Gedling,East Midlands,Midlands
+Glasgow City,Scotland,Scotland_W
+Gloucester,South West,England_S
+Gosport,South East,England_S
+Gravesham,South East,England_S
+Great Yarmouth,East,East_Anglia
+Greenwich,London,England_S
+Guildford,South East,England_S
+Gwynedd,Wales,Wales
+Hackney,London,England_S
+Halton,North West,England_N
+Hammersmith and Fulham,London,England_S
+Harborough,East Midlands,Midlands
+Haringey,London,England_S
+Harlow,East,East_Anglia
+Harrow,London,England_S
+Hart,South East,England_S
+Hartlepool,North East,England_N
+Hastings,South East,England_S
+Havant,South East,England_S
+Havering,London,England_S
+"Herefordshire, County of",West Midlands,Midlands
+Hertsmere,East,East_Anglia
+High Peak,East Midlands,Midlands
+Highland,Scotland,Scotland_N
+Hillingdon,London,England_S
+Hinckley and Bosworth,East Midlands,Midlands
+Horsham,South East,England_S
+Hounslow,London,England_S
+Huntingdonshire,East,East_Anglia
+Hyndburn,North West,England_N
+Inverclyde,Scotland,Scotland_W
+Ipswich,East,East_Anglia
+Isle of Anglesey,Wales,Wales
+Isle of Wight,South East,England_S
+Isles of Scilly,South West,England_S
+Islington,London,England_S
+Kensington and Chelsea,London,England_S
+King's Lynn and West Norfolk,East,East_Anglia
+"Kingston upon Hull, City of",Yorkshire and The Humber,England_N
+Kingston upon Thames,London,England_S
+Kirklees,Yorkshire and The Humber,England_N
+Knowsley,North West,England_N
+Lambeth,London,England_S
+Lancaster,North West,England_N
+Leeds,Yorkshire and The Humber,England_N
+Leicester,East Midlands,Midlands
+Lewes,South East,England_S
+Lewisham,London,England_S
+Lichfield,West Midlands,Midlands
+Lincoln,East Midlands,Midlands
+Liverpool,North West,England_N
+Luton,East,East_Anglia
+Maidstone,South East,England_S
+Maldon,East,East_Anglia
+Malvern Hills,West Midlands,Midlands
+Manchester,North West,England_N
+Mansfield,East Midlands,Midlands
+Medway,South East,England_S
+Melton,East Midlands,Midlands
+Merthyr Tydfil,Wales,Wales
+Merton,London,England_S
+Mid Devon,South West,England_S
+Mid Suffolk,East,East_Anglia
+Mid Sussex,South East,England_S
+Middlesbrough,North East,England_N
+Midlothian,Scotland,Scotland_E
+Milton Keynes,South East,England_S
+Mole Valley,South East,England_S
+Monmouthshire,Wales,Wales
+Moray,Scotland,Scotland_N
+Na h-Eileanan Siar,Scotland,Scotland_N
+Neath Port Talbot,Wales,Wales
+New Forest,South East,England_S
+Newark and Sherwood,East Midlands,Midlands
+Newcastle upon Tyne,North East,England_N
+Newcastle-under-Lyme,West Midlands,Midlands
+Newham,London,England_S
+Newport,Wales,Wales
+North Ayrshire,Scotland,Scotland_W
+North Devon,South West,England_S
+North East Derbyshire,East Midlands,Midlands
+North East Lincolnshire,Yorkshire and The Humber,England_N
+North Hertfordshire,East,East_Anglia
+North Kesteven,East Midlands,Midlands
+North Lanarkshire,Scotland,Scotland_W
+North Lincolnshire,Yorkshire and The Humber,England_N
+North Norfolk,East,East_Anglia
+North Northamptonshire,East Midlands,Midlands
+North Somerset,South West,England_S
+North Tyneside,North East,England_N
+North Warwickshire,West Midlands,Midlands
+North West Leicestershire,East Midlands,Midlands
+North Yorkshire,Yorkshire and The Humber,England_N
+Northumberland,North East,England_N
+Norwich,East,East_Anglia
+Nottingham,East Midlands,Midlands
+Nuneaton and Bedworth,West Midlands,Midlands
+Oadby and Wigston,East Midlands,Midlands
+Oldham,North West,England_N
+Orkney Islands,Scotland,Scotland_N
+Oxford,South East,England_S
+Pembrokeshire,Wales,Wales
+Pendle,North West,England_N
+Perth and Kinross,Scotland,Scotland_E
+Peterborough,East,East_Anglia
+Plymouth,South West,England_S
+Portsmouth,South East,England_S
+Powys,Wales,Wales
+Preston,North West,England_N
+Reading,South East,England_S
+Redbridge,London,England_S
+Redcar and Cleveland,North East,England_N
+Redditch,West Midlands,Midlands
+Reigate and Banstead,South East,England_S
+Renfrewshire,Scotland,Scotland_W
+Rhondda Cynon Taf,Wales,Wales
+Ribble Valley,North West,England_N
+Richmond upon Thames,London,England_S
+Rochdale,North West,England_N
+Rochford,East,East_Anglia
+Rossendale,North West,England_N
+Rother,South East,England_S
+Rotherham,Yorkshire and The Humber,England_N
+Rugby,West Midlands,Midlands
+Runnymede,South East,England_S
+Rushcliffe,East Midlands,Midlands
+Rushmoor,South East,England_S
+Rutland,East Midlands,Midlands
+Salford,North West,England_N
+Sandwell,West Midlands,Midlands
+Scottish Borders,Scotland,Scotland_N
+Sefton,North West,England_N
+Sevenoaks,South East,England_S
+Sheffield,Yorkshire and The Humber,England_N
+Shetland Islands,Scotland,Scotland_N
+Shropshire,West Midlands,Midlands
+Slough,South East,England_S
+Solihull,West Midlands,Midlands
+Somerset,South West,England_S
+South Ayrshire,Scotland,Scotland_W
+South Cambridgeshire,East,East_Anglia
+South Derbyshire,East Midlands,Midlands
+South Gloucestershire,South West,England_S
+South Hams,South West,England_S
+South Holland,East Midlands,Midlands
+South Kesteven,East Midlands,Midlands
+South Lanarkshire,Scotland,Scotland_W
+South Norfolk,East,East_Anglia
+South Oxfordshire,South East,England_S
+South Ribble,North West,England_N
+South Staffordshire,West Midlands,Midlands
+South Tyneside,North East,England_N
+Southampton,South East,England_S
+Southend-on-Sea,East,East_Anglia
+Southwark,London,England_S
+Spelthorne,South East,England_S
+St Albans,East,East_Anglia
+St. Helens,North West,England_N
+Stafford,West Midlands,Midlands
+Staffordshire Moorlands,West Midlands,Midlands
+Stevenage,East,East_Anglia
+Stirling,Scotland,Scotland_E
+Stockport,North West,England_N
+Stockton-on-Tees,North East,England_N
+Stoke-on-Trent,West Midlands,Midlands
+Stratford-on-Avon,West Midlands,Midlands
+Stroud,South West,England_S
+Sunderland,North East,England_N
+Surrey Heath,South East,England_S
+Sutton,London,England_S
+Swale,South East,England_S
+Swansea,Wales,Wales
+Swindon,South West,England_S
+Tameside,North West,England_N
+Tamworth,West Midlands,Midlands
+Tandridge,South East,England_S
+Teignbridge,South West,England_S
+Telford and Wrekin,West Midlands,Midlands
+Tendring,East,East_Anglia
+Test Valley,South East,England_S
+Tewkesbury,South West,England_S
+Thanet,South East,England_S
+Three Rivers,East,East_Anglia
+Thurrock,East,East_Anglia
+Tonbridge and Malling,South East,England_S
+Torbay,South West,England_S
+Torfaen,Wales,Wales
+Torridge,South West,England_S
+Tower Hamlets,London,England_S
+Trafford,North West,England_N
+Tunbridge Wells,South East,England_S
+Uttlesford,East,East_Anglia
+Vale of Glamorgan,Wales,Wales
+Vale of White Horse,South East,England_S
+Wakefield,Yorkshire and The Humber,England_N
+Walsall,West Midlands,Midlands
+Waltham Forest,London,England_S
+Wandsworth,London,England_S
+Warrington,North West,England_N
+Warwick,West Midlands,Midlands
+Watford,East,East_Anglia
+Waverley,South East,England_S
+Wealden,South East,England_S
+Welwyn Hatfield,East,East_Anglia
+West Berkshire,South East,England_S
+West Devon,South West,England_S
+West Dunbartonshire,Scotland,Scotland_W
+West Lancashire,North West,England_N
+West Lindsey,East Midlands,Midlands
+West Lothian,Scotland,Scotland_E
+West Northamptonshire,East Midlands,Midlands
+West Oxfordshire,South East,England_S
+West Suffolk,East,East_Anglia
+Westminster,London,England_S
+Westmorland and Furness,North West,England_N
+Wigan,North West,England_N
+Wiltshire,South West,England_S
+Winchester,South East,England_S
+Windsor and Maidenhead,South East,England_S
+Wirral,North West,England_N
+Woking,South East,England_S
+Wokingham,South East,England_S
+Wolverhampton,West Midlands,Midlands
+Worcester,West Midlands,Midlands
+Worthing,South East,England_S
+Wrexham,Wales,Wales
+Wychavon,West Midlands,Midlands
+Wyre,North West,England_N
+Wyre Forest,West Midlands,Midlands
+York,Yorkshire and The Humber,England_N

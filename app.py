@@ -32,7 +32,7 @@ st.text_input("Weather Zone", value=weather_zone, disabled=True)
 population = st.number_input("Population", min_value=10000, max_value=10000000, value=500000)
 gdp = st.number_input("GDP (£m)", min_value=100, max_value=500000, value=50000)
 avg_rainfall = st.number_input("Average Annual Rainfall (mm)", min_value=0.0, max_value=3000.0, value=800.0)
-avg_mean_temp = st.number_input("Average Mean Temperature (°C)", min_value=-5.0, max_value=50.0, value=10.0)
+avg_mean_temp = st.number_input("Average Annual Temperature (°C)", min_value=-5.0, max_value=50.0, value=10.0)
 total_meters = st.number_input("Total Number of Installed Meters (K)", min_value=10.0, max_value=500.0, value=100.0)
 year = st.number_input("Year", min_value=2000, max_value=2030, value=2023)
 

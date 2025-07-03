@@ -72,8 +72,8 @@ if st.button("Predict"):
     )
 
     # Display uncertainty note
-    st.info("Note: This estimate has an expected margin of ±10%.")
-    
+    st.info("Note: This estimate has an expected margin of ±11.6%.")
+
     # Show processed data for transparency
     st.subheader("Processed Input Data")
     st.dataframe(processed_df)
